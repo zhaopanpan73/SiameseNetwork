@@ -22,4 +22,5 @@ Attention：
 $ python run.py
 We found model.ckpt file. Do you want to load it [yes/no]? yes
 ```
-Have a nice day!
+Wish you have a nice day!
+
