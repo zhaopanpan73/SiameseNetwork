@@ -7,10 +7,8 @@
 * `visualize.py` : 用来数据的可视化.
 
 可以选择的运行方式：
-
-```bash
 $ python run.py
-...
+
 
 
 Attention：
@@ -19,11 +17,9 @@ Attention：
 3、当执行 python run.py这个命令时，你可以选择是否load这些模型，yes:表示load上次保存的模型，然后显示此模型运行的结果，这样就可以实时随地的查看上一次训练的结果了
 
 
-选择截图:
+运行截图:
 
-```bash
 $ python run.py
 We found model.ckpt file. Do you want to load it [yes/no]? yes
-```
 Wish you have a nice day!
 
