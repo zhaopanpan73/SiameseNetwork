@@ -19,6 +19,7 @@ Attention：
 3、当执行 python run.py这个命令时，你可以选择是否load这些模型，yes:表示load上次保存的模型，然后显示此模型运行的结果，这样就可以实时随地的查看上一次训练的结果了
 """
 
+
 运行截图:
 $ python run.py
 We found model.ckpt file. Do you want to load it [yes/no]? yes
