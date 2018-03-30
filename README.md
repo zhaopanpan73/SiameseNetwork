@@ -1,5 +1,5 @@
 # SiameseNetwork
-<font face="微软雅黑" size=16 >最近对孪生网络比较感兴趣、所以学习了一个孪生网络的一个小Demo</font>
+**<font face="微软雅黑" size=16 >最近对孪生网络比较感兴趣、所以学习了一个孪生网络的一个小Demo</font>
 
 **文件列表**:
 * `run.py` : 运行的接口.
@@ -22,5 +22,5 @@ $ python run.py
 $ python run.py
 We found model.ckpt file. Do you want to load it [yes/no]? yes
 ```
- Wish you have a nice day!
+ Wish you have a nice day!**
 
