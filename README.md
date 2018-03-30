@@ -18,7 +18,7 @@ $ python run.py
 
 **选择截图:**
 
-``markdown
+```markdown
 $ python run.py
 We found model.ckpt file. Do you want to load it [yes/no]? yes
 ```
