@@ -1,5 +1,5 @@
 # SiameseNetwork
-最近对孪生网络比较感兴趣、所以学习了一个孪生网络的一个小Demo
+<font face="微软雅黑" size=12 >最近对孪生网络比较感兴趣、所以学习了一个孪生网络的一个小Demo
 
 文件列表:
 * `run.py` : 运行的接口.
@@ -10,7 +10,7 @@
 
 ```python
 $ python run.py
-
+```
 Attention：
 1、运行以上命令后会自动下载MNIST数据集，下载一次后，以后再运行该代码将不需要再下载。
 2、在运行过程中，程序将会周期性的保存模型（model.cpkt）
@@ -21,6 +21,6 @@ Attention：
 ```python
 $ python run.py
 We found model.ckpt file. Do you want to load it [yes/no]? yes
-
- Wish you have a nice day!
+```
+ Wish you have a nice day! </font>
 
