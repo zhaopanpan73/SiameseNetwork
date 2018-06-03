@@ -1,9 +1,6 @@
 
 """ Siamese implementation using Tensorflow with MNIST example.
-This siamese network embeds a 28x28 image (a point in 784D) 
-into a point in 2D.
 
-By Youngwook Paul Kwon (young at berkeley.edu)
 """
 
 from __future__ import absolute_import
